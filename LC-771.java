@@ -18,6 +18,6 @@ class Solution {
         String jewels = "aA";
         String stones = "aAAbbbb";
 
-        System.out.println(numJewelsInStones(jewels, stones)); // ✅ directly call
+        System.out.println(numJewelsInStones(jewels, stones)); 
     }
 }
