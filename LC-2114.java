@@ -23,9 +23,17 @@
 //     }
 // }
 // SECOND METHOD
+import java.util.*;
 class Solution{
     public static void main(String[] args) {
-        String sentences[] = {"alice and bob love leetcode", "i think so too", "this is great thanks very much"};
+        Scanner sc=new Scanner(System.in);
+        String sentences[]=new String[3];
+        for(int i=0;i<3;i++){
+            String s=next();
+            sentences[i]=s;
+
+        }
+      //  String sentences[] = {"alice and bob love leetcode", "i think so too", "this is great thanks very much"};
         int ans=0;
         for(int i=0;i<sentences.length;i++){
             String S=sentences[i];
