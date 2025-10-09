@@ -141,25 +141,25 @@
 // }
 
 //CHECK IF DIAGONAL elements are same or not
-class Main {
-    public static void main(String[] args) {
-        int[][] arr = { {1, 3, 4, 11}, {5, 6, 7, 12}, {8, 9, 10, 13} };
-        int r = arr.length;
-        int c = arr[0].length;
-        int i = 0, j = 0;
+// class Main {
+//     public static void main(String[] args) {
+//         int[][] arr = { {1, 3, 4, 11}, {5, 6, 7, 12}, {8, 9, 10, 13} };
+//         int r = arr.length;
+//         int c = arr[0].length;
+//         int i = 0, j = 0;
 
-        boolean chinnu = true;   // ✅ declare before loop
-        int temp = arr[0][0];    // ✅ take first element as reference
+//         boolean chinnu = true;   // ✅ declare before loop
+//         int temp = arr[0][0];    // ✅ take first element as reference
 
-        while (i < r && j < c) {
-            if (arr[i][j] != temp) {        // check if different
-                chinnu = false;
-                break;
-            }
-            i++;
-            j++;
-        }
+//         while (i < r && j < c) {
+//             if (arr[i][j] != temp) {        // check if different
+//                 chinnu = false;
+//                 break;
+//             }
+//             i++;
+//             j++;
+//         }
 
-        System.out.println(chinnu);
-    }
-}
+//         System.out.println(chinnu);
+//     }
+// }
