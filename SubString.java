@@ -1,16 +1,20 @@
+import java.util.*;
+
 class Main {
     public static void main(String[] args) {
+        ArrayList<String> arr=new ArrayList<>();
     String str="Chinnu";
     int n=str.length();
     for(int i=0;i<n;i++){
         for(int j=i;j<n;j++){
-            for(int k=i;k<=j;k++){
-                            System.out.print(str.charAt(k)+" ");
+            String temp=str.substring(i,j+1);
+            arr.add(temp);
+                // System.out.print(str.substring(i,j+1));
 
-            }
-                        System.out.println();
+                //         System.out.println();
 
         }
     }
+    System.out.println(arr);
     }
 }
