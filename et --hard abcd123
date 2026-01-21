@@ -1,0 +1,99 @@
+[33m3fd10af[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m refs/remotes/origin/master@{0}: update by push
+[33m3fd10af[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m refs/heads/master@{0}: reset: moving to 3fd10af
+[33m3fd10af[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{0}: reset: moving to 3fd10af
+[33mee13afc[m refs/remotes/origin/master@{1}: update by push
+[33mee13afc[m refs/heads/master@{1}: commit: Leetcode-594
+[33mee13afc[m HEAD@{1}: commit: Leetcode-594
+[33m82d8796[m refs/remotes/origin/master@{2}: update by push
+[33m82d8796[m refs/heads/master@{2}: commit: Leetcode--->217
+[33m82d8796[m HEAD@{2}: commit: Leetcode--->217
+[33m9b24ad6[m refs/remotes/origin/master@{3}: update by push
+[33m9b24ad6[m refs/heads/master@{3}: commit: Leetcode 26
+[33m9b24ad6[m HEAD@{3}: commit: Leetcode 26
+[33m92f6a6a[m refs/remotes/origin/master@{4}: update by push
+[33m92f6a6a[m refs/heads/master@{4}: commit: Leetcode 14
+[33m92f6a6a[m HEAD@{4}: commit: Leetcode 14
+[33m67c4c97[m refs/remotes/origin/master@{5}: update by push
+[33m67c4c97[m refs/heads/master@{5}: commit: Two Sum Leetcode Problem
+[33m67c4c97[m HEAD@{5}: commit: Two Sum Leetcode Problem
+[33m3fd10af[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m refs/remotes/origin/master@{6}: update by push
+[33m3fd10af[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m refs/heads/master@{6}: commit: Sliding Window
+[33m3fd10af[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{6}: commit: Sliding Window
+[33mab6701c[m refs/remotes/origin/master@{7}: update by push
+[33mab6701c[m refs/heads/master@{7}: commit: Sub Array and MAX of 3 SubArray
+[33mab6701c[m HEAD@{7}: commit: Sub Array and MAX of 3 SubArray
+[33m8f2c9c7[m refs/remotes/origin/master@{8}: update by push
+[33m8f2c9c7[m refs/heads/master@{8}: commit: Leetcode-66
+[33m8f2c9c7[m HEAD@{8}: commit: Leetcode-66
+[33m29ef0ee[m refs/remotes/origin/master@{9}: update by push
+[33m29ef0ee[m refs/heads/master@{9}: commit: Leetcode-35
+[33m29ef0ee[m HEAD@{9}: commit: Leetcode-35
+[33m25911f0[m refs/remotes/origin/master@{10}: update by push
+[33m25911f0[m refs/heads/master@{10}: commit: Leetcode-27
+[33m25911f0[m HEAD@{10}: commit: Leetcode-27
+[33m384333f[m refs/remotes/origin/master@{11}: update by push
+[33m384333f[m refs/heads/master@{11}: commit: SubString
+[33m384333f[m HEAD@{11}: commit: SubString
+[33m5dd358c[m refs/remotes/origin/master@{12}: update by push
+[33m5dd358c[m refs/heads/master@{12}: commit: SubString
+[33m5dd358c[m HEAD@{12}: commit: SubString
+[33mf6c79eb[m refs/remotes/origin/master@{13}: update by push
+[33mf6c79eb[m refs/heads/master@{13}: commit: SubArray
+[33mf6c79eb[m HEAD@{13}: commit: SubArray
+[33m6ee669a[m refs/remotes/origin/master@{14}: update by push
+[33m6ee669a[m refs/heads/master@{14}: commit: LC-1512
+[33m6ee669a[m HEAD@{14}: commit: LC-1512
+[33mab06bc8[m refs/remotes/origin/master@{15}: update by push
+[33mab06bc8[m refs/heads/master@{15}: commit: 2D Diagonal
+[33mab06bc8[m HEAD@{15}: commit: 2D Diagonal
+[33m864f6e8[m refs/remotes/origin/master@{16}: update by push
+[33m864f6e8[m refs/heads/master@{16}: commit: Leetcode Problem
+[33m864f6e8[m HEAD@{16}: commit: Leetcode Problem
+[33m7c2e150[m refs/remotes/origin/master@{17}: update by push
+[33m7c2e150[m refs/heads/master@{17}: commit: Pascals Triangle
+[33m7c2e150[m HEAD@{17}: commit: Pascals Triangle
+[33ma795b9e[m refs/remotes/origin/master@{18}: update by push
+[33ma795b9e[m refs/heads/master@{18}: commit: Leetcode 766 solution
+[33ma795b9e[m HEAD@{18}: commit: Leetcode 766 solution
+[33mbfe3bca[m refs/remotes/origin/master@{19}: update by push
+[33mbfe3bca[m refs/heads/master@{19}: commit: Diagonal elements in 2D matrix
+[33mbfe3bca[m HEAD@{19}: commit: Diagonal elements in 2D matrix
+[33mac95103[m refs/remotes/origin/master@{20}: update by push
+[33mac95103[m refs/heads/master@{20}: commit: Leetcode problem
+[33mac95103[m HEAD@{20}: commit: Leetcode problem
+[33mdce5360[m refs/remotes/origin/master@{21}: update by push
+[33mdce5360[m refs/heads/master@{21}: commit: Leetcode problems
+[33mdce5360[m HEAD@{21}: commit: Leetcode problems
+[33mf38be01[m refs/remotes/origin/master@{22}: update by push
+[33mf38be01[m refs/heads/master@{22}: commit: leetcode problem
+[33mf38be01[m HEAD@{22}: commit: leetcode problem
+[33mf7bef78[m refs/remotes/origin/master@{23}: update by push
+[33mf7bef78[m refs/heads/master@{23}: commit: HashMap
+[33mf7bef78[m HEAD@{23}: commit: HashMap
+[33m88f8630[m refs/remotes/origin/master@{24}: update by push
+[33m88f8630[m refs/heads/master@{24}: commit: HashMap
+[33m88f8630[m HEAD@{24}: commit: HashMap
+[33m930409f[m refs/remotes/origin/master@{25}: update by push
+[33m930409f[m refs/heads/master@{25}: commit: HashMap Example
+[33m930409f[m HEAD@{25}: commit: HashMap Example
+[33me932e67[m refs/remotes/origin/master@{26}: update by push
+[33me932e67[m refs/heads/master@{26}: commit: Array Leetcode Problems
+[33me932e67[m HEAD@{26}: commit: Array Leetcode Problems
+[33m7f621da[m refs/remotes/origin/master@{27}: update by push
+[33m7f621da[m refs/heads/master@{27}: commit: Patterns and Time Complexity
+[33m7f621da[m HEAD@{27}: commit: Patterns and Time Complexity
+[33m0bf5c66[m refs/remotes/origin/master@{28}: update by push
+[33m0bf5c66[m refs/heads/master@{28}: commit: DSA-3
+[33m0bf5c66[m HEAD@{28}: commit: DSA-3
+[33m872b000[m refs/remotes/origin/master@{29}: update by push
+[33m872b000[m refs/heads/master@{29}: commit: This is Second Day
+[33m872b000[m HEAD@{29}: commit: This is Second Day
+[33m6d59a4f[m refs/remotes/origin/master@{30}: update by push
+[33m6d59a4f[m refs/heads/master@{30}: commit: DSA Problem
+[33m6d59a4f[m HEAD@{30}: commit: DSA Problem
+[33m6fd5f5c[m refs/remotes/origin/master@{31}: update by push
+[33m6fd5f5c[m refs/heads/master@{31}: commit: DSA Poblems
+[33m6fd5f5c[m HEAD@{31}: commit: DSA Poblems
+[33md01eb99[m refs/remotes/origin/master@{32}: update by push
+[33md01eb99[m refs/heads/master@{32}: commit (initial): DSA DAY-1
+[33md01eb99[m HEAD@{32}: commit (initial): DSA DAY-1

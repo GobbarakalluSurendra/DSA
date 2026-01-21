@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Window Object Example</title>
+</head>
+<body>
+  <h2>Window Object Demo</h2>
+  <button onclick="showProperties()">Show Window Properties</button>
+  <button onclick="openNewWindow()">Open New Window</button>
+  <button onclick="closeNewWindow()">Close New Window</button>
+  <button onclick="showAlert()">Show Alert</button>
+  <button onclick="askConfirm()">Show Confirm</button>
+  <button onclick="askPrompt()">Show Prompt</button>
+  <p id="output"></p>
+  <script>
+    let myWindow; // to hold reference of new window
+    // Show some window properties
+    function showProperties() {
+      let info = "";
+      info += "Window inner width: " + window.innerWidth + "px<br>";
+      info += "Window inner height: " + window.innerHeight + "px<br>";
+      info += "Screen width: " + window.screen.width + "px<br>";
+      info += "Screen height: " + window.screen.height + "px<br>";
+      info += "Location: " + window.location.href + "<br>";
+      info += "Navigator (browser): " + window.navigator.userAgent + "<br>";
+      document.getElementById("output").innerHTML = info;
+    }
+    // Open a new window
+    function openNewWindow() {
+      myWindow = window.open("https://www.example.com", "_blank", "width=400,height=300");
+    }
+    // Close the opened window
+    function closeNewWindow() {
+      if (myWindow) {
+        myWindow.close();
+      } else {
+        alert("No window to close!");
+      }
+    }
+
+    // Show alert
+    function showAlert() {
+      window.alert("Hello! This is an alert message.");
+    }
+    // Show confirm dialog
+    function askConfirm() {
+      let result = window.confirm("Do you like JavaScript?");
+      document.getElementById("output").innerHTML = result ? "You clicked OK!" : "You clicked Cancel!";
+    }
+    // Show prompt dialog
+    function askPrompt() {
+      let name = window.prompt("Enter your name:");
+      if (name) {
+        document.getElementById("output").innerHTML = "Hello, " + name + "!";
+      }
+    }
+  </script>
+</body>
+</html>
