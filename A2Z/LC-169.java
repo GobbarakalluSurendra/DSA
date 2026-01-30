@@ -29,7 +29,7 @@ class Solution {
     public int majorityElement(int[] nums) {
      Arrays.sort(nums);
     // int m=nums[n/2];
-         int n=nums.length/2;
+         int n=nums.length/x2;
 
      return nums[n];
     }
