@@ -16,9 +16,16 @@ class Solution{
         // for(int i=0;i<Firstname.length();i++){
         //     System.out.println(Firstname.charAt(i));
         // }
-        String Sentence="My Name is Surendra";
-        String name=Sentence.substring(10,Sentence.length());
-        System.out.println(name);
+        // String Sentence="My Name is Surendra";
+        // String name=Sentence.substring(10,Sentence.length());
+        // System.out.println(name);
+
+        StringBuilder nameb=new StringBuilder("macha");
+        nameb.append("s");
+
+        System.out.println(nameb.length());
+
+        System.out.println(nameb.toString());
 
         Sc.close();
     }
