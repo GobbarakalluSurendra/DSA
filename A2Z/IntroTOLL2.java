@@ -1,3 +1,5 @@
+import java.util.HashSet;
+
 class Main {
 
     // Global head declaration
@@ -169,6 +171,20 @@ class Main {
 
     head = prev;   // update head
 }
+   
+public static boolean isCycle() {
+    Node temp = head;
+    HashSet<Node> hs = new HashSet<>();
+
+    while (temp != null) {
+        if (hs.contains(temp)) {
+            return true;   // cycle found
+        }
+        hs.add(temp);
+        temp = temp.next;
+    }
+    return false; // no cycle
+}
 
 
     public static void main(String[] args) {
@@ -236,6 +252,8 @@ class Main {
         reverseLL();
         System.out.println("After Reversing a linked list:");
         LLPrint();
+
+        System.out.println(isCycle());
 
 
 
